@@ -1,0 +1,50 @@
+body {
+  background-color: grey
+}
+
+.lights {
+  background-color: lightgrey;
+  width:500px;
+  margin: auto
+}
+
+.light {
+  border-radius: 50%;
+  width: 100px;
+  margin: auto;
+  height: 100px;
+}
+
+#footer{
+  width: 500px;
+  margin: auto;
+  border: solid black 1px;
+}
+
+#sign {
+  width: 50px;
+  height: 50px;
+  font-size: 40px;
+  color: black;
+  margin: auto 10%;
+  display: inline;
+}
+
+#timer{
+  width: 50%;
+  display: inline;
+  font-size: 40px;
+  margin: auto 25%
+}
+
+#red {
+  background-color: red;
+}
+/*
+#green {
+  background-color: green
+}
+
+#yellow {
+  background-color: yellow
+}*/
